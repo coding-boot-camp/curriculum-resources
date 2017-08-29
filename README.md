@@ -205,7 +205,25 @@
 * [CSS Tricks](https://css-tricks.com/) - Uploaded by @Multishifties
 * [Flexbox Game #1](http://www.flexboxdefense.com/) - - Uploaded by @Multishifties
 * [Flexbox Game #2](http://flexboxfroggy.com/) - Uploaded by @Multishifties
-* [Flexbox Manual](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af) - Uploaded by @Multishifties
+* [Flexbox Manual](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af)- Uploaded by @Multishifties
+* [PluralSight - CSS Preprocessors: LESS, SASS, PostCSS](https://www.pluralsight.com)  
+  * Pluralsight is a video-based tutorial site with plenty of Intermediate to Advanced learning modules. Pluralsight has several modules on CSS Preprocessing, including modules on LESS, SASS, and PostCSS.
+  
+  * Pros
+    
+    * Great for understanding the fundamentals of LESS, SASS, and PostCSS
+    
+    * Video-based, so it’s great for visual learners. 
+
+    * Uses live coding to guide users through the experience
+  
+  * Cons
+    
+    * Costs about $30 a month. However, you can get pluralsight for free for 3 months by signing up for VS Code, which is also free.
+  
+  * Who is it good for?
+    
+    * Great as a solid resource for understanding and implementing preprocessors on a base level. Does require plenty of practice to get used to it, but I really liked the modules. 
 
 ## Git
 
