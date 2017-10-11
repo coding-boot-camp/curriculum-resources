@@ -948,7 +948,9 @@
 
 ## Node/Express/View (Handlebars)
 
-* [Introduction to Handlebars](http://devapps.io/2016/10/27/introduction-to-handlebars-tuesday-class-10-25/)
+* [The Very Basics of Handlebars](https://www.youtube.com/watch?v=utsrg2L1hec)
+
+* [Introduction to Handlebars](https://tutorialzine.com/2015/01/learn-handlebars-in-10-minutes)
 
 ## Sequelize
 
