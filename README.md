@@ -944,6 +944,7 @@
 
 * [Full Stack Review Lecture](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd0c3741-8f15-4aaa-8e61-c854566eac49) - Uploaded by @Multishifties
 * [Full Stack Review Repo](https://github.com/Multishifties/full-stack-employee-list) - Uploaded by @Multishifties
+* [Express S3 File Upload Tutorial](https://github.com/fishcharlie/ExpressFileUploadS3Example)
 
 
 ## Node/Express/View (Handlebars)
