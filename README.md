@@ -836,27 +836,27 @@
     
     * Students that would like to prepare for interviews, but are self-sufficient enough to find answers on their own. Not comprehensive, but great if used in conjunction with algorithm-based interview prep like FreeCodeCamp. 
 
-* [Quora * Developer Questions](https://www.quora.com/-What-interview-questions-should-I-ask-a-junior-web-developer)
+* [Quora * Developer Questions](https://www.quora.com/What-interview-questions-should-I-ask-a-junior-web-developer)
   
   * Q & A of how to determine a good candidate. Answers are all from employers, Hiring Engineers, and HR.  
   
   * Pros
     
-    * Free.
+  	  * Free.
     
-    * Variety of different answers, so gives a decent landscape for what different employers might be looking for. 
+  	  * Variety of different answers, so gives a decent landscape for what different employers might be looking for. 
   
   * Cons
     
-    * Actual resource links are in each answer.
+   	 * Actual resource links are in each answer.
     
-    * Small sample size, but this can be offset by a number of votes each answer receives.
+   	 * Small sample size, but this can be offset by a number of votes each answer receives.
     
-    * Less about technical aspect than the behavioral.
+ 	   * Less about technical aspect than the behavioral.
   
   * Who is it good for?
     
-    * Potential junior devs may find these to be insightful since many employers seem to be looking for desire and willingness to learn rather than technical knowledge. 
+  	  * Potential junior devs may find these to be insightful since many employers seem to be looking for desire and willingness to learn rather than technical knowledge. 
 
 * [Leet Code](https://leetcode.com/)
 * [Interview Bit](https://www.interviewbit.com/)
