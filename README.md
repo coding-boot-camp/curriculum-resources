@@ -705,6 +705,18 @@
 
 ## JavaScript Algorithms
 
+* [Instructor Video on Basics of Algorithm Scripting](https://www.youtube.com/watch?v=c0uy3CkeWus&feature=youtu.be)
+  * YouTube video on step-by-step solving of Rock, Paper, Scissors game. 
+  * Skill Level: Beginner
+  * Pros:
+    * Free
+    * Thorough
+  * Cons:
+    * Basic
+    * Long (over an hour)
+  * Who is it good for?
+    * Students just beginning to get into programming.
+
 * [FreeCodeCamp](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
   
   * Ideally used in tandem with “A Smarter Way to Learn JavaScript” (book), but not necessary. Interactive exercises on various JavaScript topics. Plenty of exercises for each topic.
