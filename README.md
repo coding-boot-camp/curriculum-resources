@@ -967,6 +967,27 @@
 
 ## Sequelize
 
+* [Sequelize Review](https://www.youtube.com/watch?v=Zf1Xraz7Wm4)
+  * 48 Minute Review on Sequelize from one of our instructional team.
+
+  * Skill Level: Beginner to Intermediate
+  
+  * Pros
+    
+    * Goes over basic-intermediate aspects of Sequelize fairly well.
+    
+    * Free
+
+    * Covers basics of Sequelize as it will be used in class.
+  
+  * Cons
+    
+    * Not in-depth
+  
+  * Who is it good for?
+    
+    * Current students (rather than alumni)
+
 * [Sequelize and Handlebars Review](https://youtu.be/EDgpYNqItmc) 
 
 * [Sequelize YouTube Videos](https://www.youtube.com/watch?v=qsDvJrGMSUY&list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR)
