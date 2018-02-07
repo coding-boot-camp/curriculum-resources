@@ -1081,6 +1081,7 @@
 * [Egghead React Fundamentals](https://egghead.io/courses/react-fundamentals)
 * [React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
 * [Short and Sweet Tutorial](https://gist.github.com/camsjams/3c3cafc35a1a5f674fb9fdad7077d3fe)
+* [Build React Apps Quickly In The Browser](https://codesandbox.io/)
   
   * Use React Router some more.
   
@@ -1090,7 +1091,7 @@
   
   * Utilize `create-react-app` and some CSS bundling.
   
-  * Show click events with state management some more.
+  * Show click events with state management some more.66666
   
   * Show how we can implement the random lotto number generator in React.
   
