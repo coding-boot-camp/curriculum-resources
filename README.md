@@ -227,6 +227,16 @@
 
 ## Git
 
+* [Source Control: How I Learned to Stop Worrying, and Love Git](https://github.com/outputs-io/dataviz-docs/blob/master/git/README.md)
+
+  * Pros
+
+    * Free
+
+    * Beginner Friendly
+
+    * Great for Getting Started
+
 * [No-nonsense GitHub Project](https://github.com/Multishifties/No-Nonsense-Github-Project) - - Uploaded by @Multishifties
     
 	* Open source GitHub video tutorial series.
