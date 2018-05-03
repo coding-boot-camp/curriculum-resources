@@ -908,6 +908,8 @@
 
 ## Node.js
 
+* [Deploy Node.js application to Amazon Web Services EC2](https://blog.charlie.fish/2018/04/17/node-js-aws-deployment/)
+
 * [TheNewBoston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
   
   * Youtube videos on Node.js done by a very quirky, but engaging instructor, Bucky Roberts. 
