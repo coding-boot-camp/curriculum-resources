@@ -387,7 +387,14 @@
   * Who is it good for?
     
     * Useful as a tool when learning Git. Best used by instructors when explaining Git workflow.
-  
+
+* Git Scripts!
+    * To re-write your entire git commit history, all relevant parts of it, so that if you committed with different usernames all will be normalized.
+	* ```
+		git filter-branch -f --commit-filter 'if [ "$GIT_AUTHOR_NAME" = "erroneous author name" ]; then export GIT_AUTHOR_NAME="Name you want"; export GIT_AUTHOR_EMAIL=emailyouwant@email.com; fi; if [ "$GIT_COMMITTER_NAME" = "erroneous commit name here" ]; then export GIT_COMMITTER_NAME="NAME YOU WANT"; export GIT_COMMITTER_EMAIL=youremailhere@email.com; fi; git commit-tree "$@"'  
+	 ```
+
+
 ## Bootstrap
 
 * [Bootstrap](http://getbootstrap.com/getting-started/)
