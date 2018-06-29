@@ -1,0 +1,19 @@
+environment:
+  nodejs_version: "6"
+
+install:
+  - npm install
+
+before_build:
+build: off
+after_build:
+
+before_test:
+  - node --version
+  - npm --version
+
+test_script:
+  - npm test
+
+after_test:
+
